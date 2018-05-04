@@ -4,3 +4,6 @@ This is a subject I wanted to learn and never really had the time, so I opened a
 
 Steps:
 1. learn about it in [How to GraphQL](https://www.howtographql.com)
+
+Thoughts:
+1. How to incorporate GraphQL to a large working system?
